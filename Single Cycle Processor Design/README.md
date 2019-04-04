@@ -1,6 +1,6 @@
 ![alt text](https://github.com/srvrc/Computer-Architecture/blob/master/Single%20Cycle%20Processor%20Design/ee446exp3sim.png?raw=true)
 #### Instruction Memory 
-_________CMD____rB___rA__imm12 / rC  
+___________CMD____rB___rA__imm12 / rC  
 0000000_1000_0_1000_0000_000000000000	//	LDR R0,[R8,0]    ;  R0 = 1 = M[R8+0] = M[0]  
 0000000_1000_0_1001_0001_000000000001	//  LDR R1,[R9,1]    ;  R1 = 2 = M[R9+0] = M[1]  
 0000000_1000_0_1010_0010_000000000010	//  LDR R2,[R10,2]  ;  R2 = 3          ...  
