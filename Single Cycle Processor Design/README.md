@@ -1,1 +1,2 @@
+![alt text](https://github.com/srvrc/Computer-Architecture/blob/master/Single%20Cycle%20Processor%20Design/ee446exp3sim.png?raw=true)
 ![alt text](https://github.com/srvrc/Computer-Architecture/blob/master/Single%20Cycle%20Processor%20Design/ee446exp3cu.png?raw=true)
