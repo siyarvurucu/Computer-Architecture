@@ -3,8 +3,6 @@ input wire clk,WE;
 input wire [31:0] WD;
 input wire [4:0] A;
 output wire [31:0] RD;
-//wire we[31:0];
-//wire [31:0] init[31:0];
 reg [31:0] init[31:0];
 
 initial
